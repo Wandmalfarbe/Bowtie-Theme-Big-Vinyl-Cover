@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Big Vinyl Cover - Bowtie Theme</title>
+
+	<link href="style.css" rel="stylesheet">
+	<script src="script.js"></script>
+
+	<script type="text/javascript">
+
+	    function flip() {
+
+	    	var container = document.getElementById('container');
+	    	container.className = container.className ? '' : 'flipped';
+
+	    	return false;
+	    }
+
+    </script>
+</head>
+<body>
+	<div class="" id="container">
+		<div class="side-a" ondblclick="return flip()">
+			<img class="artwork" id="artwork" src="img/noartwork.jpg" alt="artwork"/>
+		</div>
+
+		<div class="side-b" ondblclick="return flip()">
+			<div class="inner">
+				<div class="album" id="album">No Album</div>
+
+				<div class="side-by-side">
+					<div class="artist" id="artist">No Artist</div>
+					<div class="title-wrapper">
+						<div class="title" id="title">No Title</div>
+						<div class="length" id="length">(00:00)</div>
+					</div>
+				</div>
+			</div>
+			<div class="pull-up">
+			</div>
+		</div>
+	</div>
+</body>
+</html>

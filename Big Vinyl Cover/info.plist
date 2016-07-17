@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BTThemeDevice</key>
+	<string>mac</string>
+	<key>BTThemeName</key>
+	<string>Big Vinyl Cover</string>
+	<key>BTThemeIdentifier</key>
+	<string>de.pascal-wagler.bigvinylcover</string>
+	<key>BTThemeVersion</key>
+	<string>1.0</string>
+
+	<key>BTThemeArtist</key>
+	<string>Pascal Wagler</string>
+	<key>BTThemeArtistUrl</key>
+	<string>http://pascal-wagler.de</string>
+
+	<key>BTThemePreviewImage</key>
+	<string>preview.png</string>
+	<key>BTMainFile</key>
+	<string>index.html</string>
+	<key>BTWindowWidth</key>
+	<integer>620</integer>
+	<key>BTWindowHeight</key>
+	<integer>820</integer>
+	<key>BTWindowMode</key>
+	<string>desktop</string>
+	<key>BTSpacesBehavior</key>
+	<string>all</string>
+
+	<key>BTArtworkWidth</key>
+	<integer>600</integer>
+	<key>BTArtworkHeight</key>
+	<integer>600</integer>
+
+	<key>BTStatusFunction</key>
+	<string>playerUpdate</string>
+	<key>BTTrackFunction</key>
+	<string>trackUpdate</string>
+	<key>BTArtworkFunction</key>
+	<string>artworkUpdate</string>
+</dict>
+</plist>
