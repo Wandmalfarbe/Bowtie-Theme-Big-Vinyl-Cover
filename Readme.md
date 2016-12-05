@@ -10,12 +10,12 @@ A theme for [Bowtie](http://bowtieapp.com/) with a big 600px cover and CSS flip 
 
 **Back**
 
-![Bowtie Theme Big Vinyl Cover (Front)](preview_back.png)
+![Bowtie Theme Big Vinyl Cover (Back)](preview_back.png)
 
 ## Installation
 
 1. Download this repository as a zip archive and extract the downloaded archive.
-2. Open the extracted Folder and install the Theme by double-clicking on the file `Big Vinyl Cover.bowtie`
+2. Open the extracted folder and install the theme by double-clicking on the file `Big Vinyl Cover.bowtie`.
 
 ## License
 
