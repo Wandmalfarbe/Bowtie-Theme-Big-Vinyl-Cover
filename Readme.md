@@ -1,3 +1,5 @@
+<img src="icon.png" align="right" height="110"/>
+
 # Big Vinyl Cover
 
 A theme for [Bowtie](http://bowtieapp.com/) with a big 600px cover and CSS flip animation. The theme has a backside that can be flipped by double-clicking on the cover. On the backside it shows the album, the artist, the song and the length of the song.
